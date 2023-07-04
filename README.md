@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+### Run below command for db.json API Url 
+
+```sh
+json-server --watch db.json
+```
