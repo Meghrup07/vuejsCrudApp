@@ -1,0 +1,32 @@
+{
+  "Student": [
+    {
+      "id": 1,
+      "name": "Meghshyam Wagh",
+      "course": "MCA",
+      "email": "megh@yopmail.com",
+      "phone": "8806520498"
+    },
+    {
+      "id": 2,
+      "name": "Dhrumil Patanwadiya",
+      "course": "B-tech",
+      "email": "dhrumil@yopmail.com",
+      "phone": "8877995566"
+    },
+    {
+      "name": "Prashant Patanwadiya",
+      "email": "prashant@yopmail.com",
+      "phone": "7766558844",
+      "course": "BE",
+      "id": 3
+    },
+    {
+      "name": "Kavya Chauhan",
+      "email": "kavya@yopmail.com",
+      "phone": "8877665544",
+      "course": "MCA",
+      "id": 5
+    }
+  ]
+}
